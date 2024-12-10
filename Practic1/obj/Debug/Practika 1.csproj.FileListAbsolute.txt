@@ -1,0 +1,14 @@
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\С#\Github\Object_Oriented_Programming_C-\Repository\Practic1\bin\Debug\Practika 1.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\С#\Github\Object_Oriented_Programming_C-\Repository\Practic1\bin\Debug\Practika 1.exe
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\С#\Github\Object_Oriented_Programming_C-\Repository\Practic1\bin\Debug\Practika 1.pdb
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\С#\Github\Object_Oriented_Programming_C-\Repository\Practic1\obj\Debug\Practika 1.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\С#\Github\Object_Oriented_Programming_C-\Repository\Practic1\obj\Debug\Practika 1.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\С#\Github\Object_Oriented_Programming_C-\Repository\Practic1\obj\Debug\Practika 1.exe
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\С#\Github\Object_Oriented_Programming_C-\Repository\Practic1\obj\Debug\Practika 1.pdb
+C:\Users\vital\OneDrive\Рабочий стол\Practic1\obj\Debug\Practika 1.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\Practic1\obj\Debug\Practika 1.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\Practic1\obj\Debug\Practika 1.exe
+C:\Users\vital\OneDrive\Рабочий стол\Practic1\obj\Debug\Practika 1.pdb
+C:\Users\vital\OneDrive\Рабочий стол\Practic1\bin\Debug\Practika 1.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\Practic1\bin\Debug\Practika 1.exe
+C:\Users\vital\OneDrive\Рабочий стол\Practic1\bin\Debug\Practika 1.pdb
